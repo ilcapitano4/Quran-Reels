@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">استوديو ريلز القرآن</string>
+
+    <string name="menu_languages">اللغات</string>
+    <string name="menu_app_color">لون التطبيق</string>
+    <string name="menu_about">عن المطوّر</string>
+    <string name="choose_app_color">اختر لون التطبيق</string>
+    <string name="ok">حسنًا</string>
+    <string name="close_label">إغلاق</string>
+    <string name="back">رجوع</string>
+    <string name="loading">جاري التحميل…</string>
+
+    <string name="choose_language">اختر اللغة</string>
+    <string name="choose_language_hint">اختر لغتك المفضلة — التطبيق كله سيتغير</string>
+
+    <string name="live_preview_fmt">معاينة حية // %1$s</string>
+    <string name="studio_controls">أدوات الاستوديو // 4 أقسام</string>
+    <string name="tab_verses">الآيات</string>
+    <string name="tab_reciters">القراء</string>
+    <string name="tab_background">الخلفية</string>
+    <string name="tab_style">التنسيق</string>
+
+    <string name="verses_section">اختيار آيات القرآن والنص</string>
+    <string name="meccan">مكية</string>
+    <string name="medinan">مدنية</string>
+    <string name="verses_count_fmt">%1$d آية</string>
+    <string name="place_revelation_fmt">مكان النزول: %1$s</string>
+    <string name="all_surahs">كل السور الـ 114</string>
+    <string name="curated_passages">+24 مقطعًا مختارًا</string>
+    <string name="search_hint">ابحث في 114 سورة مثل الفاتحة، البقرة</string>
+    <string name="browse">تصفح</string>
+
+    <string name="ayah_range_title">نطاق الآيات في ريل الفيديو</string>
+    <string name="verse_range_fmt">من الآية %1$d إلى %2$d (%3$d آيات)</string>
+    <string name="start_verse">آية البداية</string>
+    <string name="end_verse">آية النهاية</string>
+
+    <string name="add_translation_title">إضافة لغة الترجمة</string>
+    <string name="yes_enabled">نعم (مُفعّل)</string>
+    <string name="no_disabled">لا (مُعطّل)</string>
+    <string name="fetching_translation">جاري تنزيل الترجمة…</string>
+    <string name="translation_failed_fmt">فشلت الترجمة: %1$s</string>
+    <string name="retry">إعادة المحاولة</string>
+
+    <string name="loaded_verses_title">الآيات المحمّلة</string>
+    <string name="loading_verses">جاري تحميل الآيات…</string>
+    <string name="no_verses_range">لا توجد آيات في هذا النطاق.</string>
+
+    <string name="recitation_section">صوت التلاوة</string>
+    <string name="reciter_note">الصوت يُبث آية بآية من everyayah.com — اضغط تشغيل في المعاينة للاستماع.</string>
+
+    <string name="motion_video">فيديو متحرك</string>
+    <string name="natural_photos">صور طبيعية</string>
+    <string name="blank_color">لون مفرد</string>
+    <string name="visibility_title">إظهار الخلفية والتباين</string>
+    <string name="visibility_fmt">إظهار %1$d%%</string>
+    <string name="dark_label">0% داكن</string>
+    <string name="balanced_label">50% متوازن</string>
+    <string name="full_light">100% فاتح</string>
+    <string name="playback_mode_title">وضع تشغيل الفيديو المتحرك</string>
+    <string name="single_loop">فيديو واحد (تكرار)</string>
+    <string name="multi_sequence">تسلسل فيديوهات متعددة</string>
+    <string name="app_library">مكتبة التطبيق</string>
+    <string name="import_tab">استيراد</string>
+    <string name="ai_generator_tab">مولّد الذكاء الاصطناعي</string>
+    <string name="library_note_fmt">%1$d مقطع HD مدمج مع التطبيق (ترخيص Mixkit المجاني) ويعمل بتكرار صامت خلف الآيات.</string>
+
+    <string name="import_video">استيراد فيديو</string>
+    <string name="import_photo">استيراد صورة</string>
+    <string name="importing_media">جاري استيراد الوسائط…</string>
+    <string name="import_note">يتم نسخ الملف المختار إلى التخزين الخاص بالتطبيق استعدادًا لمرحلة التصدير.</string>
+
+    <string name="ai_prompt_motion_label">اوصف الخلفية المتحركة التي تريدها…</string>
+    <string name="ai_prompt_photo_label">اوصف الصورة التي تريدها…</string>
+    <string name="prompt_hint_motion">مثال: شروق هادئ فوق الجبال بسحب ناعمة</string>
+    <string name="prompt_hint_photo">مثال: بحيرة هادئة وجبال عند الفجر</string>
+    <string name="generate_motion_btn">توليد مقطع متحرك بالذكاء الاصطناعي</string>
+    <string name="generate_photo_btn">توليد صورة بالذكاء الاصطناعي</string>
+    <string name="generating">جاري التوليد…</string>
+    <string name="generation_failed_fmt">فشل التوليد: %1$s</string>
+    <string name="created_motion_fmt">المقاطع المتحركة المولّدة (%1$d)</string>
+    <string name="created_photos_fmt">الصور المولّدة (%1$d)</string>
+    <string name="ai_motion_note">المقطع المتحرك بيتبني كفيديو MP4 حقيقي مدته 5 ثواني: صورة بالذكاء الاصطناعي مع حركة سينمائية، وبيتحفظ في مكتبة الفيديو — يعمل في المعاينة وفي التصدير كأي مقطع عادي. الفيديو الحقيقي من النص (Google Veo) يحتاج مفتاح API مدفوع.</string>
+    <string name="ai_photo_note">تولّد الصورة عبر Pollinations المجاني — بدون أي مفتاح API.</string>
+
+    <string name="sequence_title_fmt">تسلسل الفيديوهات (%1$d)</string>
+    <string name="sequence_hint">تسلسل متعدد: اضغط + لإضافة فيديوهات — تعرض واحدًا بعد الآخر.</string>
+    <string name="no_videos_yet">لا توجد فيديوهات بعد — اضغط + على الفيديوهات بالأعلى.</string>
+    <string name="photo_library_fmt">مكتبة الصور (%1$d صورة)</string>
+    <string name="blank_colors_fmt">ألوان مفردة (%1$d)</string>
+
+    <string name="arabic_font_title">الخط العربي</string>
+    <string name="arabic_font_hint">اختر خط الآيات</string>
+    <string name="subtitle_size_title">حجم نص الترجمة</string>
+    <string name="subtitle_size_fmt">%1$d px</string>
+    <string name="subtitle_hint">يطبّق على نص الترجمة في المعاينة وفي الفيديو النهائي.</string>
+
+    <string name="preview_verses_fmt">الآيات %1$d–%2$d</string>
+    <string name="verse_of_fmt">الآية %1$d من %2$d</string>
+    <string name="buffering">جاري التحميل…</string>
+    <string name="no_reciter">لا يوجد قارئ</string>
+    <string name="select_range_hint">اختر سورة ونطاق آيات للمعاينة</string>
+    <string name="pick_background_hint">اختر خلفية من أدوات الاستوديو</string>
+
+    <string name="export_title">إنتاج الفيديو (.mp4)</string>
+    <string name="export_description">يدمج الخلفية والآيات والترجمة وصوت التلاوة في فيديو واحد متواصل.</string>
+    <string name="export_button">إنتاج الفيديو .mp4</string>
+    <string name="export_video_quality">جودة الفيديو</string>
+    <string name="export_start_rendering">بدء الإنتاج</string>
+    <string name="export_rendering">جاري إنتاج الفيديو…</string>
+    <string name="export_back_to_studio">الرجوع للاستوديو</string>
+    <string name="export_failed">فشل الإنتاج</string>
+
+    <string name="result_title">فيديوك جاهز!</string>
+    <string name="result_save">حفظه في ذاكرة الجهاز</string>
+    <string name="result_share">مشاركته على السوشيال ميديا</string>
+    <string name="result_open_with">فتحه بأي تطبيق آخر</string>
+    <string name="result_saved">تم حفظ الفيديو في معرض الصور (Movies/QuranReelsStudio)</string>
+    <string name="result_share_hint">اختر فيسبوك أو انستجرام أو تيك توك أو إكس أو أي تطبيق آخر.</string>
+
+    <string name="theme_rose">ذهبي وردي</string>
+    <string name="theme_navy">كحلي ليلي</string>
+    <string name="theme_emerald">أخضر زمردي</string>
+    <string name="theme_purple">بنفسجي ملكي</string>
+    <string name="theme_gold">ذهب صحراوي</string>
+    <string name="theme_slate">رمادي داكن</string>
+
+    <string name="about_content">done by Ahmed Magdy\n\nصدقة جارية على روح أبي وأمى، نسألكم الدعاء\n\nFor suggestions, email me at inter.man2211@gmail.com</string>
+</resources>

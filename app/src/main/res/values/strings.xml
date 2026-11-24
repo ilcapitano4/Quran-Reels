@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quran Reels Studio</string>
+
+    <!-- Menu -->
+    <string name="menu_languages">Languages</string>
+    <string name="menu_app_color">App Color</string>
+    <string name="menu_about">About the Developer</string>
+    <string name="choose_app_color">Choose the application color</string>
+    <string name="ok">OK</string>
+    <string name="close_label">Close</string>
+    <string name="back">Back</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Language screen -->
+    <string name="choose_language">Choose Language</string>
+    <string name="choose_language_hint">Select your preferred language — the whole app will change</string>
+
+    <!-- Studio -->
+    <string name="live_preview_fmt">LIVE PREVIEW // %1$s</string>
+    <string name="studio_controls">STUDIO CONTROLS // 4 MODULES</string>
+    <string name="tab_verses">Verses</string>
+    <string name="tab_reciters">Reciters</string>
+    <string name="tab_background">Background</string>
+    <string name="tab_style">Style</string>
+
+    <string name="verses_section">QURAN VERSES &amp; TEXT SELECTION</string>
+    <string name="meccan">Meccan</string>
+    <string name="medinan">Medinan</string>
+    <string name="verses_count_fmt">%1$d verses</string>
+    <string name="place_revelation_fmt">Place of revelation: %1$s</string>
+    <string name="all_surahs">All 114 Surahs</string>
+    <string name="curated_passages">24+ Curated Passages</string>
+    <string name="search_hint">Search 114 Surahs e.g. Al-Fatihah, Al-Baqarah</string>
+    <string name="browse">Browse</string>
+
+    <string name="ayah_range_title">AYAH RANGE IN VIDEO REEL</string>
+    <string name="verse_range_fmt">VERSE %1$d TO %2$d (%3$d VERSES)</string>
+    <string name="start_verse">Start Verse</string>
+    <string name="end_verse">End Verse</string>
+
+    <string name="add_translation_title">ADD TRANSLATION LANGUAGE</string>
+    <string name="yes_enabled">YES (ENABLED)</string>
+    <string name="no_disabled">NO (DISABLED)</string>
+    <string name="fetching_translation">Fetching translation…</string>
+    <string name="translation_failed_fmt">Translation failed: %1$s</string>
+    <string name="retry">Retry</string>
+
+    <string name="loaded_verses_title">LOADED VERSES</string>
+    <string name="loading_verses">Loading verses…</string>
+    <string name="no_verses_range">No verses in this range.</string>
+
+    <string name="recitation_section">RECITATION AUDIO</string>
+    <string name="reciter_note">Audio streams per-verse from everyayah.com — press Play in the preview to listen.</string>
+
+    <string name="motion_video">Motion Video</string>
+    <string name="natural_photos">Natural Photos</string>
+    <string name="blank_color">Blank Color</string>
+    <string name="visibility_title">BACKGROUND VISIBILITY &amp; CONTRAST</string>
+    <string name="visibility_fmt">%1$d%% visibility</string>
+    <string name="dark_label">0% Dark</string>
+    <string name="balanced_label">50% Balanced</string>
+    <string name="full_light">100% Full Light</string>
+    <string name="playback_mode_title">MOTION VIDEO PLAYBACK MODE</string>
+    <string name="single_loop">Single Video (Loop)</string>
+    <string name="multi_sequence">Multi-Video Sequence</string>
+    <string name="app_library">App Library</string>
+    <string name="import_tab">Import</string>
+    <string name="ai_generator_tab">AI Generator</string>
+    <string name="library_note_fmt">%1$d HD clips are bundled with the app (Mixkit free license) and loop silently behind the verses.</string>
+
+    <string name="import_video">Import Video</string>
+    <string name="import_photo">Import Photo</string>
+    <string name="importing_media">Importing media…</string>
+    <string name="import_note">The picked file is copied into the app\'s private storage, ready for the export stage.</string>
+
+    <string name="ai_prompt_motion_label">Describe the motion background you want…</string>
+    <string name="ai_prompt_photo_label">Describe the photo you want…</string>
+    <string name="prompt_hint_motion">e.g. peaceful sunrise over mountains with soft clouds</string>
+    <string name="prompt_hint_photo">e.g. tranquil lake with mountains at dawn</string>
+    <string name="generate_motion_btn">GENERATE AI MOTION CLIP</string>
+    <string name="generate_photo_btn">GENERATE AI PHOTO</string>
+    <string name="generating">Generating…</string>
+    <string name="generation_failed_fmt">Generation failed: %1$s</string>
+    <string name="created_motion_fmt">Created AI Motion Clips (%1$d)</string>
+    <string name="created_photos_fmt">Created AI Photos (%1$d)</string>
+    <string name="ai_motion_note">AI Motion generates a real 5-second MP4 video: an AI image animated with cinematic zoom &amp; pan, added to your video library — previews and renders like any other clip. True text-to-video (Google Veo) needs a paid API key.</string>
+    <string name="ai_photo_note">AI Photo generates a still image via the free Pollinations API — no API key needed.</string>
+
+    <string name="sequence_title_fmt">Video Sequence (%1$d)</string>
+    <string name="sequence_hint">Multi-Video Sequence: tap + to add videos — they play one after the other.</string>
+    <string name="no_videos_yet">No videos yet — tap + on the videos above.</string>
+    <string name="photo_library_fmt">PHOTO LIBRARY (%1$d PHOTOS)</string>
+    <string name="blank_colors_fmt">BLANK COLORS (%1$d)</string>
+
+    <string name="arabic_font_title">ARABIC FONT</string>
+    <string name="arabic_font_hint">Select the calligraphy font for the verses</string>
+    <string name="subtitle_size_title">SUBTITLE TEXT SIZE</string>
+    <string name="subtitle_size_fmt">%1$d px</string>
+    <string name="subtitle_hint">Applies to the translation text in the preview and the rendered video.</string>
+
+    <string name="preview_verses_fmt">Verses %1$d–%2$d</string>
+    <string name="verse_of_fmt">Verse %1$d of %2$d</string>
+    <string name="buffering">Buffering…</string>
+    <string name="no_reciter">No reciter</string>
+    <string name="select_range_hint">Select a Surah and verse range to preview</string>
+    <string name="pick_background_hint">Pick a background from the studio controls</string>
+
+    <!-- Export -->
+    <string name="export_title">Render the video (.mp4)</string>
+    <string name="export_description">Mixes the background, verses, translation and recitation audio into one continuous video.</string>
+    <string name="export_button">Render the video .mp4</string>
+    <string name="export_video_quality">Video Quality</string>
+    <string name="export_start_rendering">Start Rendering</string>
+    <string name="export_rendering">Rendering your video…</string>
+    <string name="export_back_to_studio">Back to Studio</string>
+    <string name="export_failed">Rendering failed</string>
+
+    <string name="result_title">Your video is ready!</string>
+    <string name="result_save">Download it locally on the device</string>
+    <string name="result_share">Share with social media</string>
+    <string name="result_open_with">Open with another application</string>
+    <string name="result_saved">Video saved to your device gallery (Movies/QuranReelsStudio)</string>
+    <string name="result_share_hint">Choose Facebook, Instagram, TikTok, X or any other app.</string>
+
+    <!-- Theme names -->
+    <string name="theme_rose">Rose Gold</string>
+    <string name="theme_navy">Midnight Navy</string>
+    <string name="theme_emerald">Emerald Green</string>
+    <string name="theme_purple">Royal Purple</string>
+    <string name="theme_gold">Desert Gold</string>
+    <string name="theme_slate">Slate Gray</string>
+
+    <!-- About developer -->
+    <string name="about_content">done by Ahmed Magdy\n\nصدقة جارية على روح أبي وأمى، نسألكم الدعاء\n\nFor suggestions, email me at inter.man2211@gmail.com</string>
+</resources>
